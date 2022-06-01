@@ -3,12 +3,14 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
+    "export": "next export",
     "start": "next start"
   },
   "dependencies": {
     "@patternfly/react-core": "^4.121.1",
     "@patternfly/react-icons": "^4.10.7",
     "@patternfly/react-table": "^4.83.1",
+    "firebase": "^9.8.2",
     "next": "latest",
     "next-transpile-modules": "^9.0.0",
     "react": "^17.0.2",

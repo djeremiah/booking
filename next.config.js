@@ -2,6 +2,7 @@
 // we need to transpile the modules before we can use them.
 const withTM = require('next-transpile-modules')([
   '@patternfly/react-core',
+  '@patternfly/react-icons',
   '@patternfly/react-styles',
   '@patternfly/react-table',
 ])
